@@ -1,7 +1,7 @@
 {
-    "id": "ruby",
+    "id": "Bukaram",
     "version": "3.1.0",
-    "name": "Ruby",
+    "name": "Bukaram",
     "description": "Develop Ruby based applications. includes everything you need to get up and running.",
     "documentationURL": "https://github.com/devcontainers/templates/tree/main/src/ruby",
     "publisher": "Dev Container Spec Maintainers",
